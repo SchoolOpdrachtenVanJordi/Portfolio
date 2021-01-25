@@ -26,10 +26,12 @@
         <!-- end header -->
 
         <!-- main -->
-        
+
         <div class="main_container">
-        
+
             @include('extensions.hometext')
+
+
 
         </div>
 

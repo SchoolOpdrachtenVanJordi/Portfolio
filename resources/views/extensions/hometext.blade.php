@@ -8,6 +8,8 @@
 
     <h5 class="main_h5_text centered">
         <?php echo $post->body; ?>
+
+        <?php echo $user->body; ?>
     </h5>
 </div>
 

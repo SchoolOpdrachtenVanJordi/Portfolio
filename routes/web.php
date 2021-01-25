@@ -34,4 +34,6 @@ Route::get('/welcome', function () {
 });
 
 
+$user = DB::table('posts')->where("id" == 1)->first();
+
 
