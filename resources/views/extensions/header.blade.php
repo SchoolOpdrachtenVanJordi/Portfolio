@@ -7,7 +7,7 @@
                     <li class="dropdown"><a class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Info </a>
                         <div class="dropdown-menu" role="menu">
                             <a class="dropdown-item" role="presentation" href="contact">Contact</a>
-                            <a class="dropdown-item" role="presentation" href="extensions/about">Over Mij</a>
+                            <a class="dropdown-item" role="presentation" href="about">Over Mij</a>
                         </div>
                     </li>
                 </ul>

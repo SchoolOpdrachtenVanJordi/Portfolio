@@ -22,6 +22,14 @@ Route::get('/projects', function () {
     return view('projects');
 });
 
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
@@ -34,6 +42,7 @@ Route::get('/welcome', function () {
 });
 
 
-$user = DB::table('posts')->where("id" == 1)->first();
+
+
 
 

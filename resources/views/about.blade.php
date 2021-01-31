@@ -24,8 +24,10 @@
         @include('extensions.header')
 
         <!-- end header -->
-
-
+        <div class="main_container">
+       
+        @include('extensions.aboutpage')
+        </div>
         <!-- footer -->
 
         @include('extensions.footer')

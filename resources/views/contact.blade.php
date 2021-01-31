@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Contact</title>
 
     <!-- Fonts / styles -->
 
@@ -25,7 +25,9 @@
 
         <!-- end header -->
 
-
+        <div class="main_container">
+        @include('contact.email')
+        </div>
         <!-- footer -->
 
         @include('extensions.footer')
