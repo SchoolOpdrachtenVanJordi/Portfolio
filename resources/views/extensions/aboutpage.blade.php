@@ -104,7 +104,9 @@ html {
 <div class="about-section">
   <h1>Wie ben ik</h1>
   <p>Ik ben Jordi Romijn, ik ben 18 jaar oud.</p>
-  <p>Ik ben een nieuwsgierige student op het Grafisch Lyceum Utrecht.</p>
+  <p>Ik ben student op het Grafisch Lyceum Utrecht. Ik doe de opleiding webdeveloper, een webdeloper bouwt websites. Hij zorgt dat de website er goed uit ziet zowel de voorkant als achterkant van de website.  
+  </p>
+  <img class="photo-project" src="{{ URL::to('/img/30.png') }}"> 
 </div>
 
 <h2 style="text-align:center">Mijn eigenschappen / toekomst</h2>
@@ -115,7 +117,7 @@ html {
         <h2>Waarom deze opleiding</h2>
         <p class="title"></p>
         <p>Ik doe deze opleiding omdat het me altijd al leuk leek om websites te maken en ik altijd zoek naar nieuwe dingen om te leren. </p>
-        <p class="title">Stuur gerust een mailtje naar jordiromijn@gmail.com</p>
+        <p>Open a PDF file <a href="https://www.monsterboard.nl/resumes/Resume/Settings/aw7vktz58abcdnhr">example</a>.</p>
         <p><button class="button red"></button></p>
       </div>
     </div>
@@ -126,7 +128,7 @@ html {
       <div class="container">
         <h2>Wat wil ik nog leren</h2>
         
-        <p>Ik wil graag meer talen mezelf willen aanleren, zoals Python, Java en C##. Dat soort talen geven ze helaas niet om mijn opleiding maar als ik HBO ga doen wil ik dat gaan leren.</p>
+        <p>Ik wil graag meer talen leren, zoals Python, Java en C##. Dat soort talen geven ze helaas niet op mijn opleiding maar als ik HBO ga doen, wil ik dat gaan leren.</p>
         <p class="title"></p>
         <p><button class="button white"></button></p>
       </div>
@@ -139,7 +141,7 @@ html {
         <h2>Hard en Soft skills</h2>
         <p class="title"></p>
         <p>Hard skills: De programmeer talen die ik nu kan zijn JavaScript, PHP en React</p>
-        <p>Soft skills: Mijn softskills zijn altijd gezellig, tenzij de code niet werkt, verder kan ik goed in een team werken met verschillende mensen.</p>
+        <p>Soft skills: Mijn softskills zijn dat ik hard kan werken, enthousiast ben en in hectische situaties rustig blijf. En wat ook belangrijk is, is dat ik goed in een team kan werken met verschillende mensen.</p>
         <p><button class="button blue"></button></p>
       </div>
     </div>

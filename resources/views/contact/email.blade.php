@@ -111,14 +111,14 @@ if (isset($_POST['Email'])) {
         </div>
 
         <div class="fcf-form-group">
-            <label for="Message" class="fcf-label">Je berichtje!</label>
+            <label for="Message" class="fcf-label">Je berichtje</label>
             <div class="fcf-input-group">
                 <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
             </div>
         </div>
 
         <div class="fcf-form-group">
-            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Stuur Bericht!</button>
+            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Stuur Bericht</button>
         </div>
 
         <div class="fcf-credit" id="fcf-credit">
