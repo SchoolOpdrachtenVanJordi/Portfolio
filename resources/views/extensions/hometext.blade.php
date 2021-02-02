@@ -21,10 +21,10 @@
           <h3>Beste projecten</h3>
             <div class="s-12 m-12 l-4 margin-m-bottom">
               <div class="padding-2x block-bordered">
-                <i class="icon-sli-shield icon3x text-dark text-deco center margin-bottom-30"></i>
+                <i class="icon-sli-shield icon3x text-dark center margin-bottom-30"></i>
                 <h2 class="text-thin">Live Chat</h2>
                 <p class="margin-bottom-30">Dit is een live chat, hier kunt u chatten met iedereen die op deze link klikt.</p>
-                <a class="button button-dark-stroke text-size-12" href="https://glulivechat.herokuapp.com/">Live Chat</a>
+                <a class="button button-dark-stroke text-deco text-size-12" href="https://glulivechat.herokuapp.com/">Live Chat</a>
               </div>
             </div><hr>
             <div class="s-12 m-12 l-4 margin-m-bottom">
@@ -32,7 +32,7 @@
                 <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
                 <h2 class="text-thin">De motor game</h2>
                 <p class="margin-bottom-30">Hier kunt u een moter spelletje spelen. Gemaakt met Javascript. </p>
-                <a class="button button-dark-stroke text-size-12" href="http://u532639.gluweb.nl/js_hang_on_game/">Motor game</a>
+                <a class="button button-dark-stroke text-deco text-size-12" href="http://u532639.gluweb.nl/js_hang_on_game/">Motor game</a>
               </div>
             </div>
           </div>

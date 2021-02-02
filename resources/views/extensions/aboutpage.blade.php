@@ -106,7 +106,7 @@ html {
   <p>Ik ben Jordi Romijn, ik ben 18 jaar oud.</p>
   <p>Ik ben student op het Grafisch Lyceum Utrecht. Ik doe de opleiding webdeveloper, een webdeloper bouwt websites. Hij zorgt dat de website er goed uit ziet zowel de voorkant als achterkant van de website.  
   </p>
-  <img class="photo-project" src="{{ URL::to('/img/30.png') }}"> 
+
 </div>
 
 <h2 style="text-align:center">Mijn eigenschappen / toekomst</h2>
